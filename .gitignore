@@ -1,0 +1,6 @@
+main
+func_hist2dot
+*.so
+*.o
+func_hist.*
+call_graph.dot
