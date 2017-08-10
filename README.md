@@ -36,7 +36,7 @@ In the below, `DCGG$` and `PROJECT$` indicate that the current directory where y
  ```
  4. generate .dot files by passing func\_hist.\* files to func\_hist2dot
  ```bash
- PROJECT$ func_hist2dot func_hist.*
+ PROJECT$ path/to/func_hist2dot func_hist.*
  PROJECT$ ls call_graph.dot
  call_graph.dot
  ```
